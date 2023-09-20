@@ -116,7 +116,6 @@ Gender: Gender of the passengers (Female, Male)
 <br>
 <br>
 ### Conclusion
-<br>
 <br>Based on the survey, several facts can be stated:
 <br>  -people on personal travel in Eco and EcoPlus class tend to be more likely dissatisfied
 <br>  -gate location and inflight wifi services got the least amount of high rating
