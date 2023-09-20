@@ -69,13 +69,12 @@ Gender: Gender of the passengers (Female, Male)
 <br>The dataset in clear from duplicates.The box plot will help with detecting the outliers.
 <br>
 ![12](https://github.com/Bzeorge/Passengers_survey-python/assets/74241688/a7d61c16-88da-4afb-bacd-fb376abda653)
-<br>
-<br>
+
 
 
 ### Plotting the data
-<br>
-<br>
+
+
 ![13](https://github.com/Bzeorge/Passengers_survey-python/assets/74241688/b3b0643c-2137-4d5f-8794-d6049a6fd07e)
 ![14](https://github.com/Bzeorge/Passengers_survey-python/assets/74241688/6dd902a3-13d6-474c-a0ea-e0d4531c7a7b)
 ![15](https://github.com/Bzeorge/Passengers_survey-python/assets/74241688/ddaf96e1-6b8f-485c-a0af-c57daad925bf)
